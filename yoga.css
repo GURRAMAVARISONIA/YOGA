@@ -1,7 +1,6 @@
 /* First web page */
 .yoga1img{
-    background-image: url("https://t3.ftcdn.net/jpg/06/74/95/16/360_F_674951676_dwdvGDIMIXPlz3tjXwjjmF9GAk9NrGn5.jpg")
-    background-repeat:no-repeat;
+    background-image: url("https://t3.ftcdn.net/jpg/06/74/95/16/360_F_674951676_dwdvGDIMIXPlz3tjXwjjmF9GAk9NrGn5.jpg");    background-repeat:no-repeat;
     background-attachment:fixed;   
     background-size: cover;
     margin-left 300px;
